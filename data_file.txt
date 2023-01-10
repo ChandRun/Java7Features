@@ -1,0 +1,3 @@
+This is Java 7 feature programming. 
+Java 7 has braught new interesting features. 
+Read and update the imformation. 
